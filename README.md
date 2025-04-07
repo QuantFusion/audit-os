@@ -1,3 +1,3 @@
 # Audit-OS
 
-Meta-coordination for audits.
+Meta-coordinator for audit repos, time tracking, and CI dashboards.
