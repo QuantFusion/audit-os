@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Applying all milestones...'
+# Audit-OS Milestone Script

@@ -1,3 +1,3 @@
-# Audit-os
+# Audit-OS
 
-This is the initial bundle for audit-os.
+Meta-coordination for audits.
