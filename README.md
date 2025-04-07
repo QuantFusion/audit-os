@@ -1,2 +1,3 @@
-# audit-os
-Meta-audit controller for CI, metrics, and Slack sync
+# Audit-os
+
+This is the initial bundle for audit-os.
